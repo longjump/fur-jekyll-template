@@ -6,7 +6,7 @@ url: "https://shop.avr.ze.cx/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
-snipcart_key: "MWE3NjhiMTItNTZkYS00ODg0LWFkYzItZjFhMDY1YTM1MmFhNjM2Nzg3OTUyNTMxNTE4NzYx"
+snipcart_key: "S_ZjdmMmFjMWQtNTJlYS00YjhlLWJiMmItODY5YWZmNTY3MzhlNjM2Nzg3OTU1MzY0NjMyMTIy"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
